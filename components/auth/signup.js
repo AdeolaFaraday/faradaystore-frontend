@@ -6,7 +6,7 @@ const Signup = () => {
         name: 'tech_faraday',
         email: 'adex@gmail.com',
         message: '',
-        password: 'lonToursex98.'
+        password: ''
     })
 
     const {name, email, password, message} = values
